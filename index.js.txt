@@ -1,0 +1,6 @@
+let object={
+name:"ram",
+age:20,
+place:"Kakinada",
+};
+console.log(object);
